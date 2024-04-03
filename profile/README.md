@@ -5,6 +5,6 @@ This is the Laboratory of Generative AI Solutions for Information Retrieval Appl
 Our lab is now recruiting self-motivated Ph.D. students with strong AI backgrounds.
 
 Please check-out our latest publications:
-* ISAN
+* IISAN
 * LLMRec
 * CFIR
