@@ -6,5 +6,5 @@ Our lab is now recruiting self-motivated Ph.D. students with strong AI backgroun
 
 Please check-out our latest publications:
 * [IISAN](https://arxiv.org/abs/2404.02059)
-* LLMRec
-* CFIR
+* [LLMRec](https://arxiv.org/abs/2403.16948)
+* [CFIR](https://arxiv.org/abs/2402.15276)
