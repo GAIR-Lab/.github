@@ -5,7 +5,7 @@ This is the Laboratory of Generative AI Solutions for Information Retrieval Appl
 Our lab is now recruiting self-motivated Ph.D. students with strong AI backgrounds.
 
 Please check-out our latest publications:
-* IISAN:Junchen Fu, Xuri Ge, Xin Xin, Alexandros Karatzoglou, Ioannis Arapakis, Jie Wang, Joemon M Jose; Efficiently Adapting Multimodal Representation for Sequential Recommendation with Decoupled PEFT; In SIGIR 2024
-[IISAN](https://arxiv.org/abs/2404.02059)
+* [IISAN](https://arxiv.org/abs/2404.02059) Junchen Fu, Xuri Ge, Xin Xin, Alexandros Karatzoglou, Ioannis Arapakis, Jie Wang, Joemon M Jose; IISAN: Efficiently Adapting Multimodal Representation for Sequential Recommendation with Decoupled PEFT; In SIGIR 2024
+
 * [LLMRec](https://arxiv.org/abs/2403.16948)
 * [CFIR](https://arxiv.org/abs/2402.15276)
